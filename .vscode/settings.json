@@ -1,0 +1,28 @@
+{
+  "files.exclude": {
+    "**/*.class": true,
+    "**/*.jar": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/target": true,
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  },
+  "search.exclude": {
+    "**/*.class": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/target": true
+  },
+  "explorer.excludeGitIgnore": true,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  }
+}

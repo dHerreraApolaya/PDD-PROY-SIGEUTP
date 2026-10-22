@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: JF_Menu0Principal
+Class-Path: lib/sqljdbc4.jar lib/mssql-jdbc-12.2.0.jre11.jar lib/javax.servlet.jsp.jstl-1.2.1.jar lib/javax.servlet.jsp.jstl-api-1.2.1.jar
+
